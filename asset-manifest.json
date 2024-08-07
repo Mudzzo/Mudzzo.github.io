@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mudzzo.github.io/static/css/main.228eb622.css",
+    "main.js": "/Mudzzo.github.io/static/js/main.caa3222d.js",
+    "static/js/453.0297a6b4.chunk.js": "/Mudzzo.github.io/static/js/453.0297a6b4.chunk.js",
+    "static/media/shopping-bag.svg": "/Mudzzo.github.io/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/Mudzzo.github.io/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Mudzzo.github.io/index.html",
+    "main.228eb622.css.map": "/Mudzzo.github.io/static/css/main.228eb622.css.map",
+    "main.caa3222d.js.map": "/Mudzzo.github.io/static/js/main.caa3222d.js.map",
+    "453.0297a6b4.chunk.js.map": "/Mudzzo.github.io/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228eb622.css",
+    "static/js/main.caa3222d.js"
+  ]
+}
